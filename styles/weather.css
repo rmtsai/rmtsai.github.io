@@ -1,0 +1,30 @@
+body {
+	background-color: #EAEAEA;
+	color: black;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: large;
+}
+
+.left-justify {
+	float: left;
+}
+
+.right-justify {
+	float: right;
+}
+
+img {
+	border: 5px solid #4F2582;
+	height: 471px;
+	width: 471px;
+	padding: 5px;
+	margin: 5px;
+}
+
+table {
+	line-height: 125%;
+}
+
+#clothes {
+	clear: both;
+}
