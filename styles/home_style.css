@@ -7,3 +7,8 @@ color: #fff;
 background-color: #4F2582;
 border-color: #000000;
 }
+
+.jumbotron {
+	background-image: url(../pics/jacobs.jpg);
+	background-size: contain;
+}

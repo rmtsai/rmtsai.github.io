@@ -1,30 +1,30 @@
-body {
-	background-color: #EAEAEA;
-	color: black;
-	font-family: 'Shadows Into Light', cursive;
-	font-size: large;
+ul h1 h2 h3	 {
+	color: #4F2582;
 }
 
-.left-justify {
-	float: left;
+a {
+	color: #4F2582
 }
 
-.right-justify {
-	float: right;
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+color: #fff;
+background-color: #4F2582;
+border-color: #000000;
 }
 
-img {
-	border: 5px solid #4F2582;
-	height: 471px;
-	width: 471px;
-	padding: 5px;
-	margin: 5px;
+.jumbotron {
+	background-image: url(../pics/webcam.jpg);
+	background-size: contain;
 }
 
-table {
-	line-height: 125%;
+.weather_detail {
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: white;
 }
 
-#clothes {
-	clear: both;
+.border {
+	border-style: solid;
+	border-width: medium;
+	border-color: #4F2582;
 }
+

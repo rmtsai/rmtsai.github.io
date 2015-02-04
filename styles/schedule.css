@@ -1,0 +1,35 @@
+ul h1 h2 h3	 {
+	color: #4F2582;
+}
+
+a {
+	color: #4F2582
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+color: #fff;
+background-color: #4F2582;
+border-color: #000000;
+}
+
+body{padding:0px; margin:18px 0 0; background:url(../pics/dates.png); color:#000000; font:12px Arial, Helvetica, sans-serif;}
+div, p, ul, h2, h3, h4, h5, form, img{padding:0px; margin:0px;}
+ul{list-style-type:none;}
+
+.jumbotron {
+	background-image: url(../pics/student.jpg);
+	border: 1px solid; 
+	background-size: contain;
+}
+
+.schedule_detail {
+	font-family: "Times New Roman Black", Gadget, sans-serif;
+	color: black;
+}
+
+.border {
+	border-style: solid;
+	border-width: medium;
+	border-color: #4F2582;
+}
+
