@@ -1,14 +1,30 @@
 a {
-	color: #4F2582
+    color: #4F2582
 }
-
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
 color: #fff;
 background-color: #4F2582;
 border-color: #000000;
-}
 
+}
 .jumbotron {
 	background-image: url(../pics/jacobs.jpg);
 	background-size: contain;
 }
+.contact_form {
+                    border-style: solid;
+    border-width: 1px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.title {
+                    font:18px Arial;
+                    font-weight: bold;
+                    padding-bottom: 2px;
+}
+.form_format {
+                    font:14px Arial;
+}
+
